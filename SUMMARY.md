@@ -3,3 +3,4 @@
 * [UE5-FromZeroToHero](README.md)
   * [Control Flows](ue5-fromzerotohero/control-flows/README.md)
     * [QueueStep](ue5-fromzerotohero/control-flows/queuestep.md)
+    * [QueueWait](ue5-fromzerotohero/control-flows/queuewait.md)
