@@ -25,7 +25,7 @@ Flow.ExecuteFlow();
 {% step %}
 ## QueueStep执行堆栈
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
